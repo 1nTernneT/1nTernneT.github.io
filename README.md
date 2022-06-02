@@ -2,19 +2,14 @@
 
 ### Useful Sites
 
-#Search Engines
+Search Engines
 
-www.google.com 
-www.bing.com
+www.google.com   www.bing.com
 
-#Social Media
+Social Media
 
-www.discord.com 
-www.facebook.com 
-www.twitter.com
+www.discord.com   www.facebook.com   www.twitter.com
 
-#Educational
+Educational
 
-www.tangmath.com 
-www.mathplayground.com 
-www.audible.com
+www.tangmath.com   www.mathplayground.com   www.audible.com
