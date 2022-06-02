@@ -1,12 +1,11 @@
 ## Welcome to the 1nTernneT
 
-You can use the [editor on GitHub](https://github.com/1nTernneT/1nTernneT.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Useful Sites
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Search Engines
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+www.google.com
+www.bing.com
 
 ```markdown
 Syntax highlighted code block
