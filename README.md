@@ -4,17 +4,17 @@
 
 #Search Engines
 
-www.google.com
+www.google.com 
 www.bing.com
 
 #Social Media
 
-www.discord.com
-www.facebook.com
+www.discord.com 
+www.facebook.com 
 www.twitter.com
 
 #Educational
 
-www.tangmath.com
-www.mathplayground.com
+www.tangmath.com 
+www.mathplayground.com 
 www.audible.com
