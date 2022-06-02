@@ -16,4 +16,4 @@ www.tangmath.com   www.mathplayground.com   www.audible.com
 
 Games
 
-www.minecraft.net   www.roblox.com   www.sodoku.com
+www.minecraft.net   www.roblox.com   www.sudoku.com
