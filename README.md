@@ -4,16 +4,16 @@
 
 Search Engines
 
-www.google.com   www.bing.com
+www.google.com | www.bing.com
 
 Social Media
 
-www.discord.com   www.facebook.com   www.twitter.com
+www.discord.com | www.facebook.com | www.twitter.com
 
 Educational
 
-www.tangmath.com   www.mathplayground.com   www.audible.com
+www.tangmath.com | www.mathplayground.com | www.audible.com
 
 Games
 
-www.minecraft.net   www.roblox.com   www.sudoku.com
+www.minecraft.net | www.roblox.com | www.sudoku.com
